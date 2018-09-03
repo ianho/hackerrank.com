@@ -115,3 +115,9 @@ Code: [the-time-in-words.js](/src/the-time-in-words.js)
 [https://www.hackerrank.com/challenges/two-pluses/problem](https://www.hackerrank.com/challenges/two-pluses/problem)
 
 Code: [two-pluses.js](/src/two-pluses.js)
+
+## Rust & Murderer
+
+[https://www.hackerrank.com/challenges/rust-murderer/problem](https://www.hackerrank.com/challenges/rust-murderer/problem)
+
+Code: [rust-murderer.js](/src/rust-murderer.js)
