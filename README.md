@@ -121,3 +121,9 @@ Code: [two-pluses.js](/src/two-pluses.js)
 [https://www.hackerrank.com/challenges/rust-murderer/problem](https://www.hackerrank.com/challenges/rust-murderer/problem)
 
 Code: [rust-murderer.js](/src/rust-murderer.js)
+
+## Journey to the Moon
+
+[https://www.hackerrank.com/challenges/journey-to-the-moon/problem](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
+
+Code: [journey-to-the-moon](/src/journey-to-the-moon.js)
