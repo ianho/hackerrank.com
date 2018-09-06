@@ -127,3 +127,9 @@ Code: [rust-murderer.js](/src/rust-murderer.js)
 [https://www.hackerrank.com/challenges/journey-to-the-moon/problem](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
 
 Code: [journey-to-the-moon](/src/journey-to-the-moon.js)
+
+## Common Child
+
+[https://www.hackerrank.com/challenges/common-child/problem](https://www.hackerrank.com/challenges/common-child/problem)
+
+Code: [common-child](/src/common-child.js)
