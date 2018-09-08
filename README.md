@@ -126,10 +126,16 @@ Code: [rust-murderer.js](/src/rust-murderer.js)
 
 [https://www.hackerrank.com/challenges/journey-to-the-moon/problem](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
 
-Code: [journey-to-the-moon](/src/journey-to-the-moon.js)
+Code: [journey-to-the-moon.js](/src/journey-to-the-moon.js)
 
 ## Common Child
 
 [https://www.hackerrank.com/challenges/common-child/problem](https://www.hackerrank.com/challenges/common-child/problem)
 
-Code: [common-child](/src/common-child.js)
+Code: [common-child.js](/src/common-child.js)
+
+## Knapsack
+
+[https://www.hackerrank.com/challenges/unbounded-knapsack/problem](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
+
+Code: [unbounded-knapsack.js](/src/unbounded-knapsack.js)
