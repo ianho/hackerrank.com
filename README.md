@@ -2,6 +2,12 @@
 
 > My accept code at hackerrank.com (Difficulty medium and hard)
 
+## Two Two
+
+[https://www.hackerrank.com/challenges/two-two/problem](https://www.hackerrank.com/challenges/two-two/problem)
+
+Code: [two-two.js](/src/two-two.js)
+
 ## 3D Surface Area
 
 [https://www.hackerrank.com/challenges/3d-surface-area/problem](https://www.hackerrank.com/challenges/3d-surface-area/problem)
